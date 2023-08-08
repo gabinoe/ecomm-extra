@@ -18,8 +18,7 @@ This is the backend for an e-commerce website developed for an internet retail c
 
 2. Install the project dependencies using npm:
 
-```bash
-npm install
+
 ## API Endpoints
 
 The backend provides the following API endpoints:
@@ -60,3 +59,8 @@ Contributions to this project are welcome. If you find any issues or have sugges
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## LINKS
+
+- repo: https://github.com/gabinoe/ecomm-extra
+- pages: https://gabinoe.github.io/ecomm-extra
